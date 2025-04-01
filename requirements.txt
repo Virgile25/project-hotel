@@ -1,3 +1,4 @@
+--upgrade pip
 beautifulsoup4
 pandas
 plotly
