@@ -7,4 +7,5 @@ yfinance
 pandas-datareader
 prophet
 textblob
-supabase-py
+supabase-py==1.0.3
+
