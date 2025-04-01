@@ -1,0 +1,9 @@
+beautifulsoup4
+pandas
+plotly
+streamlit
+yfinance
+pandas-datareader
+prophet
+textblob
+supabase-py==1.0.3
